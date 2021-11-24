@@ -3,6 +3,5 @@ numpy
 matplotlib
 opencv-python
 pandas
-pytest-warnings
 pickle
 Werkzeug3
