@@ -3,5 +3,5 @@ numpy
 matplotlib
 opencv-python
 pandas
-pickle
+pickle5
 Werkzeug3
