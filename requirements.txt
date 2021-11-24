@@ -5,5 +5,4 @@ opencv-python
 pandas
 pytest-warnings
 pickle5
-os
-Werkzeug
+Werkzeug3
