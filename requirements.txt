@@ -4,4 +4,3 @@ matplotlib
 opencv-python
 pandas
 pickle5
-Werkzeug3
