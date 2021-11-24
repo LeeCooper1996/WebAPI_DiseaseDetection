@@ -4,5 +4,5 @@ matplotlib
 opencv-python
 pandas
 pytest-warnings
-pickle5
+pickle
 Werkzeug3
